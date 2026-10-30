@@ -1,0 +1,7 @@
+[project]
+name = "cnc-machine-classifier"
+version = "0.1.0"
+description = "Mixed-attribute CNC machine similarity and condition classification"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = []
